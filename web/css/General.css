@@ -1,0 +1,37 @@
+#loginbox{
+    padding-right: 350px;
+    padding-top: 100px;
+    float:right;
+}
+#contimg{
+    float:left;
+    padding-left: 50px;
+}
+h1{
+    padding-top: 250px;
+    padding-left: 20px;
+}
+.inputbox{
+    border-color: #4CAF50;
+    border-width: 2px;
+    margin-bottom: 20px;
+    padding:5px;
+}
+.txtusrpsw{
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+#usr{
+    margin-bottom: 50px;
+}
+#btnIniciar{
+  background-color: #4CAF50;
+  font-size:15px;
+  font-weight: bold;
+  padding:7px 14px 7px 14px;
+  margin-top: 40px;
+  color:white;
+  border-width: 1px;
+  border-color: black;
+
+}
